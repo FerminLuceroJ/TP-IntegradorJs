@@ -1,0 +1,46 @@
+.tamañoletra{
+
+    font-size: small;
+
+}
+
+.totalAPagar{
+
+    background-color: lightblue;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+    
+}
+
+
+
+.boton {
+
+    background-color: #96C93E;
+    border-width: 0;
+    font-size: 1.3rem;
+    font-weight: 1rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    color: white;
+    border-radius: 5px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
+
+.banner {
+
+    background: linear-gradient(to right,#1A3744, #1F5271);
+}
+
+.footer{
+
+margin-left: 4rem;
+margin-right: 4rem;
+
+
+
+}

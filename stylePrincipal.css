@@ -1,0 +1,53 @@
+.barra-izq {
+
+    padding-left: 75px;
+    font-size: x-large;
+
+}
+
+.barra-der { 
+
+    padding-right: 50px;
+
+}
+
+.titulos { 
+
+    text-align: center;
+
+}
+
+.card-Oradores {
+
+    width: 22rem;
+    border: 1.3px solid lightgray;
+}
+
+.card-Oradores a{
+
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 0.7rem;
+    font-weight: bold;
+
+}
+
+.boton {
+
+    background-color: #96C93E;
+    border-width: 0;
+    font-size: 1.3rem;
+    font-weight: 1rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    color: white;
+    border-radius: 3px;
+
+}
+
+.banner {
+
+    background: linear-gradient(to right,#1A3744, #1F5271);
+    
+
+}
